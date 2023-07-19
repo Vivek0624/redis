@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+
+# dump files
+dump.rdb
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Compiled files
+/dist/
+/build/
+
+# Environment variables
+.env
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# Ignore API keys or sensitive information
+config.json
+secrets.json
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
